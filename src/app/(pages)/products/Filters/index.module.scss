@@ -27,7 +27,7 @@
   gap: 16px;
   margin-top: 20px;
 
-  @include large-break {
+  @include mid-break {
     flex-direction: row;
   }
 
